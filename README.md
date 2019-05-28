@@ -1,2 +1,2 @@
 # Data-Visualisation-with-Python
-This repositry is a collection of projects which involves of Data Visualisation of various Datasets using Python
+This repositry is a collection of projects which involves Data Visualisation of various datasets using Python
