@@ -4,10 +4,10 @@
 
 In this project, I have created different types of world maps using various map tiles such as :
 
-*Stamen Terrain
-*Stamen Toner
-*Mapbox Bright
-*Chloropleth Maps
+- Stamen Terrain
+- Stamen Toner
+- Mapbox Bright
+- Chloropleth Maps
 
 
 
